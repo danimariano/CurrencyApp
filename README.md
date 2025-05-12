@@ -1,6 +1,7 @@
 <h1 align="center">💰🔄 Conversor de Moedas com API 🔄💰</h1>
 
 <p align="center">
+  Desafio proposto pelo Projeto One - Oracle  Education - para os estudantes do curso de BeckEnd.
   Um conversor de moedas simples e eficiente, construído em Java, que busca as taxas de câmbio mais recentes diretamente da API <a href="https://www.exchangerate-api.com/" target="_blank">exchangerate-api.com</a>. Diga adeus às taxas desatualizadas! 👋
 </p>
 
